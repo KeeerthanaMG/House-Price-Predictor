@@ -1,1 +1,1 @@
-# House-Price-Predictor
+This repository contains the code and resources for a house price prediction model using linear regression. The goal of this project is to predict house prices based on various features such as counting records, identifies the type of dwelling, predicting the rate based on overall condition of the house. Linear regression is used as the modeling technique for this task.
